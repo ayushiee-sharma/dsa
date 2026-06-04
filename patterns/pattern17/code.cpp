@@ -13,9 +13,9 @@ void print1(int x){
   }
 }
 int main(){
-    int n;
-    cin>>n;
-    for(int i=0;i<=n;n++)
+    int l;
+    cin>>l;
+    for(int i=0;i<=l;i++)
     {
         int x;
         cin>>x;
