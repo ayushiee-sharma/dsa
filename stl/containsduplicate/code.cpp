@@ -16,7 +16,7 @@ using namespace std;
     }
 int main()
 {
- vector<int>nums={1,4,8,5,4,6};
+ vector<int>nums={1,4,8,5,6};
  int x=containsDuplicate(nums);
  cout<<x;
 }
