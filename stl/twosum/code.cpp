@@ -21,7 +21,7 @@ using namespace std;
 int main()
 {
  int target=9;
- vector<int>nums={1,3,1,5,6};
+ vector<int>nums={1,3,6,8,5,6};
  vector<int>res=twoSum(nums,target);
  for(auto it=res.begin();it!=res.end();it++)
  {
