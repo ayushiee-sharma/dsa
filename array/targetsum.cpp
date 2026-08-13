@@ -26,7 +26,7 @@ using namespace std;
 
     int main()
     {
-        vector<int>numbers={1,2,3,5,6,7,8,9};
+        vector<int>numbers={1,2,3,2,6,7,8,9};
         int target;
         cin>>target;
         vector<int>ans=twoSum(numbers,target);
