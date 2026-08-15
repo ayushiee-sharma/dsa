@@ -12,7 +12,7 @@ using namespace std;
  return nums.size(); 
 }
 int main(){
-     vector <int> nums={1,5,7,10,9};
+     vector <int> nums={1,5,3,10,9};
      int val;
      cin>>val;
     cout<<removeElement(nums,val);
