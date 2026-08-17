@@ -14,6 +14,6 @@ using namespace std;
     }
 int main()
 {
-   vector <int> nums={1,5,7,10,9};
+   vector <int> nums={1,5,10,9};
     cout<<removeDuplicates(nums);
 }
